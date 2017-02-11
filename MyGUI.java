@@ -127,7 +127,7 @@ public class MyGUI extends JFrame {
 			resetButton.setToolTipText("");
 			
 			// label for displaying number of steps
-			//stepLabel = new JLabel("Go fuck yourself");
+			//stepLabel = new JLabel("");
 			//stepLabel.setFont(new Font("Verdana", Font.BOLD, 12));
 			
 			// position child components
